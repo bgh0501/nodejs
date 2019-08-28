@@ -6,5 +6,5 @@ setInterval(() => {
     }
     console.log(i);
     i+=1;
-    
+
 },1000);
