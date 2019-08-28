@@ -1,3 +1,4 @@
+// Press Shift + Alt + P
 {
   "swagger" : "2.0",
   "info" : {
@@ -41,7 +42,7 @@
   }, {
     "name" : "trsrfnd"
   }, {
-    "name" : "API?¬íƒˆ UMS"
+    "name" : "API?ï¿½íƒˆ UMS"
   }, {
     "name" : "psd2"
   }, {
@@ -10751,7 +10752,7 @@
     },
     "/kebhnb/ums/v1/sms/send" : {
       "post" : {
-        "tags" : [ "APIi?¡þi?? UMS" ],
+        "tags" : [ "APIi?ï¿½ï¿½i?? UMS" ],
         "summary" : "Get sms send header/body",
         "description" : "Get sms send header/body",
         "operationId" : "smsSend",
