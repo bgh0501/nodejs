@@ -39,3 +39,4 @@ myEvent.removeAllListeners('event5', listener);
 myEvent.emit('event5');
 
 console.log(myEvent.listenerCount('event2'));
+
